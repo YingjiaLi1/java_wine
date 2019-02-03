@@ -1,0 +1,5 @@
+Yingjia Li. Your balance is -£15.24
+wine1 (£11.42), 6 units, total cost = £68.52, new balance = £53.28
+wine2 (£7.45), 12 units, total cost = £89.4, new balance = £142.68
+wine3 (£15.0), -5 units, total cost = -£60.0, new balance = £82.68
+wine4 (£15.0), 3 units, total cost = £45.0, new balance = £127.68
